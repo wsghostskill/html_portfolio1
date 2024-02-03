@@ -6,8 +6,14 @@ ol {
 
   *{text-align: center;}
   *{text-decoration:wavy;}
-  *{font-size: larger;}
-  *{font-weight: 2000;}
+  h1{font-weight: 2rem;
+    font-size: 2rem;}
+  h2{font-weight: 1rem;
+    font-size: 1.rem;}
+    h3{font-size: 25px;
+    font-weight:900;}
+    h6{font-size: large;}
+
   *{font-style:oblique;}
   *{background-attachment: fixed;}
   *{background-color: beige;}
