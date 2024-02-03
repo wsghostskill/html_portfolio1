@@ -1,0 +1,13 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+
+  *{text-align: center;}
+  *{text-decoration:wavy;}
+  *{font-size: larger;}
+  *{font-weight: 2000;}
+  *{font-style:oblique;}
+  *{background-attachment: fixed;}
+  *{background-color: beige;}
